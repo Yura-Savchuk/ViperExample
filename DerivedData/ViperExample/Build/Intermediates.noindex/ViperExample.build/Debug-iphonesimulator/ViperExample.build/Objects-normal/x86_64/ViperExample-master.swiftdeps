@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1640855302, 406438827]
+build_end_time: [1640855312, 517907142]
+inputs:
+  "/Users/macbookpro/Projects/xCode/ViperExample/ViperExample/AppDelegate.swift": [1640847189, 219387531]
+  "/Users/macbookpro/Projects/xCode/ViperExample/ViperExample/LoginViewController.swift": [1640849142, 937199592]
+  "/Users/macbookpro/Projects/xCode/ViperExample/ViperExample/SceneDelegate.swift": [1640847189, 245809078]

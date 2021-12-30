@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AC5378D6-1467-48A5-9A03-660840B67EB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC5378D6-1467-48A5-9A03-660840B67EB0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>662548096.69749999</real>
+			<key>timeStoppedRecording</key>
+			<real>662548119.78018498</real>
+			<key>title</key>
+			<string>Build ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>AC5378D6-1467-48A5-9A03-660840B67EB0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

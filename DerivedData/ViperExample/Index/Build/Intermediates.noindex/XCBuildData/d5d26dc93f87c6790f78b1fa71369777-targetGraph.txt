@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+ViperExample in ViperExample, no dependencies
+ViperExample in ViperExample, no dependencies
