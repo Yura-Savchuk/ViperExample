@@ -1,0 +1,17 @@
+[
+    {
+        "username": "yura_savchuk",
+        "password_hash": "8cb2237d0679ca88db6464eac60da96345513964",
+        "token": "123"
+    },
+    {
+        "username": "raketa",
+        "password_hash": "6934105ad50010b814c933314b1da6841431bc8b",
+        "token": "1234"
+    },
+    {
+        "username": "solovey",
+        "password_hash": "7b21848ac9af35be0ddb2d6b9fc3851934db8420",
+        "token": "12345"
+    }
+]

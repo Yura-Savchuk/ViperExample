@@ -225,12 +225,28 @@ SWIFT_CLASS("_TtC12ViperExample11AppDelegate")
 @class NSBundle;
 @class NSCoder;
 
-SWIFT_CLASS("_TtC12ViperExample19LoginViewController")
-@interface LoginViewController : UIViewController
-- (void)viewDidLoad;
+SWIFT_CLASS("_TtC12ViperExample18HelpViewController")
+@interface HelpViewController : UIViewController
+- (IBAction)didTapClose:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
+@class UITextField;
+@class UIActivityIndicatorView;
+
+SWIFT_CLASS("_TtC12ViperExample19LoginViewController")
+@interface LoginViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified tfUserName;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified tfPassword;
+@property (nonatomic, weak) IBOutlet UIActivityIndicatorView * _Null_unspecified activityIndicator;
+- (void)viewDidLoad;
+- (IBAction)didTapInfoBtn:(id _Nonnull)sender;
+- (IBAction)didTapLoginBtn:(id _Nonnull)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 @class UIWindow;
 @class UIScene;
@@ -246,6 +262,8 @@ SWIFT_CLASS("_TtC12ViperExample13SceneDelegate")
 - (void)sceneDidEnterBackground:(UIScene * _Nonnull)scene;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

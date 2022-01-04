@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2759028C-1210-48D4-B6C6-4950A30408C9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2759028C-1210-48D4-B6C6-4950A30408C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>663003177.63492703</real>
+			<key>timeStoppedRecording</key>
+			<real>663003401.11274004</real>
+			<key>title</key>
+			<string>Run ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>2759028C-1210-48D4-B6C6-4950A30408C9</string>
+		</dict>
+		<key>7089CBD6-5205-40A2-A103-FDF2BE5E539F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7089CBD6-5205-40A2-A103-FDF2BE5E539F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>662659666.73039806</real>
+			<key>timeStoppedRecording</key>
+			<real>662659982.87037599</real>
+			<key>title</key>
+			<string>Run ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>7089CBD6-5205-40A2-A103-FDF2BE5E539F</string>
+		</dict>
+		<key>CA24094B-F99A-40C7-9E46-4C5680AE4B8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA24094B-F99A-40C7-9E46-4C5680AE4B8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>663001718.45913196</real>
+			<key>timeStoppedRecording</key>
+			<real>663003170.59526896</real>
+			<key>title</key>
+			<string>Run ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>CA24094B-F99A-40C7-9E46-4C5680AE4B8C</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>AEC13D5F-9410-44D2-A6A9-A4A57BB80470</key>
+		<key>57D58DDF-F26B-49AF-BEBA-A3B81B822F9D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>AEC13D5F-9410-44D2-A6A9-A4A57BB80470.xcactivitylog</string>
+			<string>57D58DDF-F26B-49AF-BEBA-A3B81B822F9D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>ViperExample-aimnnxbuudkdaldkusbilucpwpde</string>
 			<key>timeStartedRecording</key>
-			<real>662548101.95835996</real>
+			<real>663003401.04999602</real>
 			<key>timeStoppedRecording</key>
-			<real>662548119.76206803</real>
+			<real>663003404.84078395</real>
 			<key>title</key>
 			<string>Build target ViperExample</string>
 			<key>uniqueIdentifier</key>
-			<string>AEC13D5F-9410-44D2-A6A9-A4A57BB80470</string>
+			<string>57D58DDF-F26B-49AF-BEBA-A3B81B822F9D</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

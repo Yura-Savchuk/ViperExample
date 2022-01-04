@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>AC5378D6-1467-48A5-9A03-660840B67EB0</key>
+		<key>2597B704-9507-4582-835B-4305742B7F6F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AC5378D6-1467-48A5-9A03-660840B67EB0.xcactivitylog</string>
+			<string>2597B704-9507-4582-835B-4305742B7F6F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,115 @@
 			<key>signature</key>
 			<string>Build ViperExample</string>
 			<key>timeStartedRecording</key>
-			<real>662548096.69749999</real>
+			<real>663001713.34231806</real>
 			<key>timeStoppedRecording</key>
-			<real>662548119.78018498</real>
+			<real>663001718.37308705</real>
 			<key>title</key>
 			<string>Build ViperExample</string>
 			<key>uniqueIdentifier</key>
-			<string>AC5378D6-1467-48A5-9A03-660840B67EB0</string>
+			<string>2597B704-9507-4582-835B-4305742B7F6F</string>
+		</dict>
+		<key>2C96D8AD-A507-49AB-B2B3-BD6E76E387F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C96D8AD-A507-49AB-B2B3-BD6E76E387F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>663003400.95513403</real>
+			<key>timeStoppedRecording</key>
+			<real>663003404.84389806</real>
+			<key>title</key>
+			<string>Build ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>2C96D8AD-A507-49AB-B2B3-BD6E76E387F7</string>
+		</dict>
+		<key>63EDF2DF-E8FB-4BCD-8DAB-C1A7BE54A00A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63EDF2DF-E8FB-4BCD-8DAB-C1A7BE54A00A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>662659664.09910595</real>
+			<key>timeStoppedRecording</key>
+			<real>662659666.72470105</real>
+			<key>title</key>
+			<string>Build ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>63EDF2DF-E8FB-4BCD-8DAB-C1A7BE54A00A</string>
+		</dict>
+		<key>73946617-6418-4E12-BE13-493A4A157AB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73946617-6418-4E12-BE13-493A4A157AB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ViperExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ViperExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ViperExample</string>
+			<key>timeStartedRecording</key>
+			<real>663003170.49653804</real>
+			<key>timeStoppedRecording</key>
+			<real>663003177.62334394</real>
+			<key>title</key>
+			<string>Build ViperExample</string>
+			<key>uniqueIdentifier</key>
+			<string>73946617-6418-4E12-BE13-493A4A157AB8</string>
 		</dict>
 	</dict>
 </dict>
