@@ -13,15 +13,26 @@ class LoginViewController: UIViewController {
     @IBOutlet weak var tfPassword: UITextField!
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     var output: AnyLoginPresenter?
+    var segueProcessors: [AnySegueProcessor] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
         LoginWireframe().setupModule(with: self)
     }
     
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        super.prepare(for: segue, sender: sender)
+        for segueProcessor in segueProcessors {
+            if segueProcessor.prepare(for: segue, sender: sender) {
+                return
+            }
+        }
+    }
+    
     @IBAction func didTapInfoBtn(_ sender: Any) {
         output?.didTapInfo()
     }
+    
     @IBAction func didTapLoginBtn(_ sender: Any) {
         output?.didTapLogin(tfUserName.text ?? "",
                             tfPassword.text ?? "")

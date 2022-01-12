@@ -1,0 +1,52 @@
+[
+    {
+        "manufacture": "Apple",
+        "model": "iPhone 11 64GB",
+        "price": 20000
+    },
+    {
+        "manufacture": "Apple",
+        "model": "iPhone X 128BG",
+        "price": 18000
+    },
+    {
+        "manufacture": "Apple",
+        "model": "iPad Pro 12.9\" M1 Wi-Fi 128 GB Space Gray (MHNF3RK/A)",
+        "price": 42000
+    },
+    {
+        "manufacture": "Samsung",
+        "model": "Galaxy S20 FE",
+        "price": 20000
+    },
+    {
+        "manufacture": "Samsung",
+        "model": "Galaxy Tab A7 Lite LTE 32GB Grey (SM-T225NZAASEK)",
+        "price": 5200
+    },
+    {
+        "manufacture": "Apple",
+        "model": "Macbook Pro 16 Retina Space Gray with Touch Bar 2019",
+        "price": 72000
+    },
+    {
+        "manufacture": "Apple",
+        "model": "MacBook Air 13\" M1 256GB 2020 (MGN63UA/A) Space Gray MGN63",
+        "price": 34000
+    },
+    {
+        "manufacture": "Lenovo",
+        "model": "ThinkPad E14 Gen 2 (20TA002CRT) Black",
+        "price": 30300
+    },
+    {
+        "manufacture": "Lenovo",
+        "model": "Tab P11 LTE 4/128GB Slate Grey (ZA7S0012UA)",
+        "price": 9500
+    },
+    {
+        "manufacture": "Lenovo",
+        "model": "Tab M8 HD 2/32 LTE Platinum Grey (ZA5H0088UA)",
+        "price": 4300
+    }
+]

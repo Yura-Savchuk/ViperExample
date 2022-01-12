@@ -78,4 +78,8 @@ class LoginService {
         return UserDefaults.userToken != nil
     }
     
+    func logout() {
+        UserDefaults.userToken = nil
+    }
+    
 }

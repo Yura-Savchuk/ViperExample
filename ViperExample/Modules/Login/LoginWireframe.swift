@@ -16,6 +16,7 @@ class LoginWireframe {
         let router = LoginRouter()
 
         vc.output = presenter
+        vc.segueProcessors = [router]
 
         presenter.interactor = interactor
         presenter.view = vc

@@ -8,5 +8,8 @@
 import Foundation
 
 protocol AnyLoginRouter {
+    
+    func presentLoginInfo()
+    func presentHome()
 
 }

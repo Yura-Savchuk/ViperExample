@@ -10,20 +10,20 @@ import Foundation
 class LoginPresenter {
     
     weak var view: AnyLoginView?
-    var interactor: AnyLoginInteractor?
-    var router: AnyLoginRouter?
+    var interactor: AnyLoginInteractor!
+    var router: AnyLoginRouter!
 
 }
 
 extension LoginPresenter: AnyLoginPresenter {
     
     func didTapInfo() {
-        
+        router?.presentLoginInfo()
     }
     
     func didTapLogin(_ userName: String, _ password: String) {
         view?.presentActivityIndicator()
-        interactor?.loginUser(userName, password)
+        interactor.loginUser(userName, password)
     }
     
 }
@@ -32,6 +32,7 @@ extension LoginPresenter: AnyLoginInteractorOutput {
     
     func didLoginUser() {
         view?.hideActivityIndicator()
+        router.presentHome()
     }
     
     func failedToLoginUser(_ error: Error) {
